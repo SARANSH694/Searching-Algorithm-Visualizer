@@ -1,0 +1,43 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    }
+    
+    .header {
+    font-size: 35px;
+    color: #e43f5a;
+    text-align: center;
+    }
+    
+    #array {
+    height: 305px;
+    width: 598px;
+    margin: auto;
+    position: relative;
+    margin-top: 64px;
+    }
+    
+    .block {
+    width: 28px;
+    background-color: #e43f5a;
+    position: absolute;
+    bottom: 0px;
+    transition: 0.2s all ease;
+    }
+    
+    .block_id {
+    position: absolute;
+    color: white;
+    margin-top: -20px;
+    width: 100%;
+    text-align: center;
+    }
+    
+    .number-array{
+       color: #e43f5a; 
+    }
+
+    #text{
+        color: #e43f5a;
+    }

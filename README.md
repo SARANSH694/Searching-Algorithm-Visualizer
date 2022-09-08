@@ -1,2 +1,3 @@
-# Searching-Algorithm-Visulizer
-It is a searching algorithm visulizer
+# Searching Algorithms Visulizer
+
+This website is used to show visulization of different searching algorithms like linear search, binary search, ternary search. We can see the live
